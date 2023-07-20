@@ -1,4 +1,4 @@
-package threads;
+package thread;
 
 public class TicketUse {
 	public static void main(String[] args)
